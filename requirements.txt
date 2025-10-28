@@ -1,0 +1,19 @@
+# 데이터 처리 및 수집
+pandas
+requests
+dart-fss
+requests
+
+# HTML/XML 문서 파싱
+beautifulsoup4
+lxml
+html5lib
+
+# AI 및 벡터 DB
+chromadb
+sentence-transformers
+huggingface_hub
+
+# 유틸리티
+tqdm
+python-dotenv
